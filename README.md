@@ -4,6 +4,13 @@ simple application dedicated to form building in react
 
 ---
 
+-13 Sep. 2022-
+
+- Refactored making use of a custom hook in order to reduce duplicate code.
+  Custom hook checks individual field validity which in turn determines form validity.
+
+---
+
 -12 Sep. 2022-
 
 - Added overall form validity.

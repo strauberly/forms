@@ -4,6 +4,14 @@ simple application dedicated to form building in react
 
 ---
 
+-14 Sep. 2022-
+
+- Implemented custom hook to a multi field form.
+- Implemented useReducer as we have multiple related states and practice is good.
+- Finished lesson module.
+
+---
+
 -13 Sep. 2022-
 
 - Refactored making use of a custom hook in order to reduce duplicate code.
